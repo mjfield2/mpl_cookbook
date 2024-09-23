@@ -1,4 +1,4 @@
-# MPL cookbook examples
+# Visualization cookbook examples
 
 Michael Field
 
@@ -7,3 +7,4 @@ Michael Field
 * animation
 * colorbar formatting
 * maybe some cartopy
+* some HoloViews stack stuff
